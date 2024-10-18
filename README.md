@@ -1,3 +1,4 @@
 # The wild oasis
 
-react project by Ritik Shakya.
+React project by Ritik Shakya.
+Built with react query and supabase.
